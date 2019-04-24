@@ -1,1 +1,3 @@
-# loftblogcustomslider
+# Custom Slider
+
+Простая реализация своего радиального слайдера реализованого в рамках вебинара для LoftBlog
